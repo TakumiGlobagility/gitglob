@@ -9,4 +9,12 @@
 1155
 1156 A
 Ready for release
+<<<<<<< HEAD
+Develop
+Develop 2
+=======
 Feature
+>>>>>>> Hotfix1200
+New
+1 FFFFFFFG
+#
